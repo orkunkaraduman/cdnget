@@ -48,3 +48,4 @@ Makefile
 /texinfo.tex
 
 bin/**
+!bin/Makefile.am
